@@ -76,7 +76,7 @@ header{
   background-size: cover;
   background-repeat: no-repeat; 
   background-position: bottom;
-  text-align: center;
+  text-align: center; 
   color: white;
   height: 100vh; 
 }
@@ -86,4 +86,7 @@ header{
   background-color: white;
   color: black;
   padding:  8px 1.7rem;
+}
+.uppercase{
+  text-transform: uppercase;
 }
