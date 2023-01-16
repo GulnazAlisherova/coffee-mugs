@@ -64,5 +64,6 @@ body {
   text-decoration: none;
   color: #1d1f2e;
   margin: 1rem;
+  font-weight: 400;
   text-transform: uppercase;
 }
