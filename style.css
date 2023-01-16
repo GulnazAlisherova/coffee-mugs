@@ -73,7 +73,11 @@ nav{
 }
 header{
   background-image: url(./assets/header-image.png);
-
+  background-size: cover;
+  background-repeat: no-repeat; 
   text-align: center;
   color: white;
+}
+.btn-1{
+  text-transform: uppercase;
 }
