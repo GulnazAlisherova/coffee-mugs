@@ -75,6 +75,7 @@ header{
   background-image: url(./assets/header-image.png);
   background-size: cover;
   background-repeat: no-repeat; 
+  background-position: bottom;
   text-align: center;
   color: white;
   height: 100vh; 
