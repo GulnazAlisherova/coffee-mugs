@@ -55,7 +55,9 @@ body {
 .col-12 {
   flex: 0 0 100%;
 }
-
+nav{
+  display: flex; 
+}
 .navbar ul {
   list-style-type: none;
   display: flex;
@@ -67,5 +69,5 @@ body {
   font-weight: 400;
   text-transform: uppercase;
   font-size: 14px;
-  line-height: 18px;
+  line-height: 18px; 
 }
