@@ -81,4 +81,5 @@ header{
 .btn-1{
   text-transform: uppercase;
   border: 1px solid gray;
+  background-color: white;
 }
