@@ -60,3 +60,6 @@ body{
   list-style-type: none;
   display: flex;
 }
+.navbar ul li a {
+  text-decoration: none;
+}
