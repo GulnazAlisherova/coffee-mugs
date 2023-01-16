@@ -71,3 +71,6 @@ nav{
   font-size: 14px;
   line-height: 18px; 
 }
+header{
+  background-image: url(./assets/header-image.png);
+}
