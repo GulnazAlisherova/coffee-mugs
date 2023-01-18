@@ -89,12 +89,12 @@ header {
 .uppercase {
   text-transform: uppercase;
 }
-.full-story{
+.full-story {
   max-width: 700px;
   text-align: center;
   align-items: center;
 }
-.full-story h2{
+.full-story h2 {
   font-weight: 400;
   font-size: 28px;
   line-height: 40px;
@@ -102,5 +102,5 @@ header {
 .full-story p {
   font-weight: 400;
   line-height: 28px;
-font-size: 16px;
+  font-size: 16px;
 }
