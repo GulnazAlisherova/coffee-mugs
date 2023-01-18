@@ -89,3 +89,8 @@ header {
 .uppercase {
   text-transform: uppercase;
 }
+.full-story{
+  max-width: 700px;
+  text-align: center;
+  align-items: center;
+}
