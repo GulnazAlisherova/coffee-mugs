@@ -99,3 +99,6 @@ header {
   font-size: 28px;
   line-height: 40px;
 }
+.full-story p {
+  font-weight: 400;
+}
