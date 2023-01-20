@@ -111,18 +111,18 @@ header {
   font-size: 19px;
   line-height: 28px;
 }
-.full-story h5{
+.full-story h5 {
   margin: 3.6rem;
   text-transform: uppercase;
   font-weight: 400;
   font-size: 18px;
   line-height: 20px;
 }
-.price{
+.price {
   text-align: center;
 }
-.price h3{
+.price h3 {
   font-weight: 400;
-  color: #1D1F2E;
+  color: #1d1f2e;
   font-size: 20px;
 }
