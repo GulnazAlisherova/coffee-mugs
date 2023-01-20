@@ -126,3 +126,7 @@ header {
   color: #1d1f2e;
   font-size: 20px;
 }
+.price a{
+  color: #1d1f2ec2;
+  font-weight: 400;
+}
