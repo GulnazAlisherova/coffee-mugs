@@ -129,4 +129,5 @@ header {
 .price a{
   color: #1d1f2ec2;
   font-weight: 400;
+  text-decoration: none;
 }
