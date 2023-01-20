@@ -121,4 +121,6 @@ header {
 .price{
   text-align: center;
 }
-.price
+.price h3{
+  font-weight: 400;
+}
