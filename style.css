@@ -134,4 +134,6 @@ del {
 .price a {
   text-decoration: none;
 }
-.orange{}
+.orange {
+  color: #a25f4b;
+}
