@@ -130,3 +130,7 @@ header {
   color: #1d1f2ec2;
   font-weight: 400;
 }
+.price a{
+  
+  text-decoration: none;
+}
